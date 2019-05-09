@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi everyone, I am a university student in Taiwan. I major in MIS and enjoy coding a lot.
